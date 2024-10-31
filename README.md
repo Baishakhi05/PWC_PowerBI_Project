@@ -19,4 +19,4 @@ Employee demographics and Performance: Analyzes current employee demographics ac
 Interactive Visuals: Includes bar charts, pie charts, line graphs, and more for dynamic analysis.
 Slicers for Filtering: Users can filter data by region, date range, tenure, contract, topic and payment method for deeper insights.
 Drillthroughs: Allows users to drill through from a summary view to a detailed analysis.
-Custom DAX Measures: Utilizes DAX functions for calculating measures associated with percentage contributions, total customers, total calls, tickets, customer satisfaction, etc
+Custom DAX Measures: Utilizes DAX functions for calculating measures associated with percentage contributions, total customers, total calls, tickets, customer satisfaction, etc.
